@@ -116,3 +116,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [Redis](https://redis.io/)
 * [JWT](https://jwt.io/)
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
