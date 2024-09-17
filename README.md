@@ -35,7 +35,7 @@ This project implements a real-time leaderboard system that tracks and ranks use
 1. **Clone the Repository**
 
     ```bash
-    git clone https://gitlab.com/your-username/leaderboard-app.git
+    git clone https://gitlab.com/big-projects/leaderboard-app.git
     ```
 
 2. **Navigate to the Project Directory**
