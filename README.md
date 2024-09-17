@@ -108,6 +108,8 @@ Contributions are welcome! Please open an issue or submit a merge request if you
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+
+
 ## Acknowledgements
 
 * [Node.js](https://nodejs.org/)
@@ -117,3 +119,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [JWT](https://jwt.io/)
 * [bcrypt](https://www.npmjs.com/package/bcrypt)
 * [Nodemon](https://www.npmjs.com/package/nodemon)
+
+Special thanks to the [Real-Time Leaderboard System](https://roadmap.sh/projects/realtime-leaderboard-system) project on Roadmap.sh for inspiration.
