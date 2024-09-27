@@ -35,13 +35,13 @@ This project implements a real-time leaderboard system that tracks and ranks use
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/JheyTim/leaderboard-app.git
+    git clone https://github.com/JheyTim/Leaderboard-System.git
     ```
 
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd leaderboard-app
+    cd Leaderboard-System
     ```
 
 3. **Install Dependencies**
