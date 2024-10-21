@@ -3,9 +3,6 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
 
-// Load env variables
-require('dotenv').config();
-
 const JWT_SECRET = process.env.JWT_SECRET;
 
 // User registration route

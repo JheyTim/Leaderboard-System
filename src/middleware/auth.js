@@ -1,5 +1,4 @@
 const jwt = require('jsonwebtoken');
-require('dotenv').config();
 
 // Middleware to protect routes
 const authenticateJWT = (req, res, next) => {

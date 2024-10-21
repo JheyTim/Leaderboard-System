@@ -4,8 +4,6 @@
 
 This project implements a real-time leaderboard system that tracks and ranks users based on their scores in various games or activities. It features user authentication, score submission, real-time leaderboard updates, and top players reporting. The backend is built with Node.js, Express, MongoDB, and Redis, using JWT for secure API access.
 
-Special thanks to the [Real-Time Leaderboard System](https://roadmap.sh/projects/realtime-leaderboard-system) project on Roadmap.sh for inspiration.
-
 ## Features
 
 * **User Authentication**: Register and log in with JWT-based authentication.
@@ -37,13 +35,13 @@ Special thanks to the [Real-Time Leaderboard System](https://roadmap.sh/projects
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/JheyTim/Leaderboard-System.git
+    git clone https://gitlab.com/big-projects/leaderboard-app.git
     ```
 
 2. **Navigate to the Project Directory**
 
     ```bash
-    cd Leaderboard-System
+    cd leaderboard-app
     ```
 
 3. **Install Dependencies**
@@ -102,6 +100,20 @@ Special thanks to the [Real-Time Leaderboard System](https://roadmap.sh/projects
     * Headers: `{ "Authorization": "Bearer <jwt_token>" }`
     * Response: `{ "message": "Score submitted successfully" }`
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a merge request if you have any improvements or suggestions.
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+* [Node.js](https://nodejs.org/)
+* [Express](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Redis](https://redis.io/)
+* [JWT](https://jwt.io/)
+* [bcrypt](https://www.npmjs.com/package/bcrypt)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
